@@ -11,6 +11,7 @@
 		0154DF202A7DA94E00B07415 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0154DF1F2A7DA94E00B07415 /* ContentView.swift */; };
 		0154DF222A7DA95000B07415 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0154DF212A7DA95000B07415 /* Assets.xcassets */; };
 		0154DF252A7DA95000B07415 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0154DF242A7DA95000B07415 /* Preview Assets.xcassets */; };
+		0154DF2C2A7DAC6E00B07415 /* BackgroundColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0154DF2B2A7DAC6E00B07415 /* BackgroundColor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0154DF1F2A7DA94E00B07415 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0154DF212A7DA95000B07415 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0154DF242A7DA95000B07415 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0154DF2B2A7DAC6E00B07415 /* BackgroundColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundColor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				0154DF1D2A7DA94E00B07415 /* GamePapelTijeraApp.swift */,
 				0154DF1F2A7DA94E00B07415 /* ContentView.swift */,
+				0154DF2B2A7DAC6E00B07415 /* BackgroundColor.swift */,
 				0154DF212A7DA95000B07415 /* Assets.xcassets */,
 				0154DF232A7DA95000B07415 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0154DF202A7DA94E00B07415 /* ContentView.swift in Sources */,
+				0154DF2C2A7DAC6E00B07415 /* BackgroundColor.swift in Sources */,
 				0154DF1E2A7DA94E00B07415 /* GamePapelTijeraApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
